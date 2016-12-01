@@ -1,4 +1,5 @@
 # uo-engineering
 
-Powerpoint potx template file for UO Engineering.
+Microsoft Office Powerpoint slide potx template for the uOttawa engineering faculty.
+
 
